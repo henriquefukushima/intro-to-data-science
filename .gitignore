@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[oc]
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.egg-info/
+# dados/saídas pesados
+data/
+out/
+outputs/
+debug_*
+*.log
+*.tif
+*.tiff
+*.mp4
+*.mov
+*.pth
+*.ckpt
+*.weights
+*.h5
